@@ -20,8 +20,8 @@ description              : >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-url                      : https://qibit47.github.io/project-linvega/ # the base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site
+url                      : "https://qibit47.github.io/" # the base hostname & protocol for your site
+baseurl                  : "/project-linvega/" # the subpath of your site
 repository               : "Qibit47/project-linvega"
 words_per_minute         : 180
 # twitter_username: username
