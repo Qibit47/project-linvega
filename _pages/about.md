@@ -1,8 +1,20 @@
 ---
 permalink: /about/
 title: "About"
+comments: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+This is the personal blog of Billy Tsi.  
+If you want to contact me, feel free to leave a message [here](https://l1nv3.ga/about/).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# Tell me about Billy Tsi.
+- Used to be interested in design and programming.
+- Knows a little bit about Chemistry, Mathematics and Statistics.
+
+# What is this website about?
+- Mathematics
+- Coding
+- Life & Everything else.
+
+# Tell me about L1nv3ga.
+L1nv3ga is from *Davine Lu Linvega*, name of a character in Tsutomu Nihei's sci-fi manga *Blame!*.
