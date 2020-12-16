@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale                   : "en-US"
-title                    : "Linve.ga"
+title                    : "L1nv3.Ga"
 title_separator          : "|"
 subtitle                 : "A blog." # site tagline that appears below site title in masthead
 description              : >- # this means to ignore newlines until "baseurl:"
@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name   : "Bin Qi"
+  name   : "Billy Tsi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
