@@ -113,7 +113,7 @@ analytics:
 author:
   name   : "Billy Tsi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "// TODO: Add a bio here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -160,6 +160,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: katex
 
 
 # Sass/SCSS
@@ -222,6 +223,7 @@ defaults:
       comments: true
       share: false
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
